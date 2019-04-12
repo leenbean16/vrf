@@ -1,0 +1,93 @@
+﻿.card-footer {
+    background-color: transparent;
+    border-top: none;
+    display: flex;
+    border: 1px solid #e3E3E3;
+    width: 100%;
+}
+
+.icon-bar {
+    background: #000;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.card {
+    box-shadow: none;
+    margin: 0px;
+}
+
+img {
+    border-radius: 50px;
+}
+
+.card-content {
+    padding: 0px;
+}
+
+.section {
+    padding:0px;
+}
+
+.dropdown-menu {
+    border: none;
+}
+
+.dropdown, .dropdown-trigger, .button {
+    width: 90vw;
+    margin-left: 1%;
+    height: 40px;
+    font-size: 15px;
+}
+
+.dropdown.is-active .dropdown-menu, .dropdown.is-hoverable:hover .dropdown-menu {
+    display: block;
+    width: 90vw;
+    margin: 4.5%;
+    margin-top: 0px;
+}
+
+.dropdown-content {
+    background-color: #fff;
+    border-radius: 0px;
+    box-shadow: none;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+a.dropdown-item, button.dropdown-item {
+    padding-right: 1rem;
+    text-align: center;
+    white-space: nowrap;
+    width: 101%;
+    font-size: 15px;
+}
+
+.white {
+background-color: #FFF;
+}
+
+.media-content {
+padding: 10px;
+}
+
+.username-spot {
+padding-left:10px;
+}
+
+.dropdown, .dropdown-trigger, .button {
+    width: 86vw;
+    margin-left: 0%;
+    height: 40px;
+    font-size: 15px;
+}
+
+    .dropdown.is-active .dropdown-menu, .dropdown.is-hoverable:hover .dropdown-menu {
+        display: block;
+        width: 85vw;
+        margin-left: 3.5%;
+    }
